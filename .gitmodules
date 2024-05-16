@@ -1,0 +1,3 @@
+[submodule "rf-comparative-genomics_sub"]
+	path = rf-comparative-genomics_sub
+	url = https://github.com/NaokiSunagawa/rf-comparative-genomics_sub.git

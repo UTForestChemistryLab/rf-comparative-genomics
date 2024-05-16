@@ -3,7 +3,7 @@ This repository has all the code and datasets used in the experiments carried ou
 
 The repository is organized into the following two folders:
 * **DecayType** folder - contains all the code and datasets for reproducing the experiments on decay-type.
-~~* **HostAssociation** folder - contains all the code and datasets for reproducing the experiments on host specialization.~~ This code is still private.
+* ~~**HostAssociation** folder - contains all the code and datasets for reproducing the experiments on host specialization.~~ This code is still private.
 
 # Requirements
 The experimental design was implemented in Python. In order to replicate these experiments you will need a working installation of Python.

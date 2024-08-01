@@ -1,0 +1,11 @@
+Parameters:
+	num_leaves: 12
+	max_depth: 9
+	min_data_in_leaf: 7
+	feature_fraction: 0.4140537993416729
+	bagging_fraction: 0.9720964753348426
+	bagging_freq: 9
+	lambda_l1: 0.14166330194422305
+	lambda_l2: 0.31288327052315373
+	min_gain_to_split: 0.023264629664862174
+Best Score: -0.6638646787227241
